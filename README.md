@@ -1,5 +1,8 @@
 ## I'm Leonardo da Vinci - Software Developer and Publisher in Affiliate Marketing. 
-#Flutter
+#javascript
 #Dart
-#100DaysOfCode
+#Flutter
+#PHP
+#Python
+#Rust
 ##
